@@ -1,0 +1,61 @@
+main {
+  text-align: center;
+  vertical-align: center;
+}
+#hom{
+  background-image: url("moon.jpg");
+   background-repeat: no-repeat;
+  background-size: 99%;
+  color: red;
+}
+#but{
+  background-color:deeppink;
+  color: aquamarine;
+  	border-radius: 15px;
+}
+#col	:checked{
+  	color: brown;
+}
+.card-img, .card-img-bottom, .card-img-top{
+  width: 150% !important; 
+}
+#for{
+ width: 350px;
+	height: 500px;
+	position: absolute;
+  background-color: white;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	border-radius: 20px;
+  border: 2px solid black;
+  text-align: center;
+ 
+}
+#h1{
+  color: chocolate;
+}
+input,textarea,select{
+	width: 80%;
+	border: none;
+	border-bottom: 1px solid #d90077;
+	padding: 10px;
+    border-radius: 20px;
+}
+span{
+  display: block;
+  color: red;
+}
+#but1{
+  background-color: cornflowerblue;
+  color: aquamarine;
+  	border-radius: 20px;
+}
+#but2{
+   background-color: navy;
+  color: white;
+  	border-radius: 20px;
+}
+#mod{
+  background-image: url("one more moon.jpg")
+}
